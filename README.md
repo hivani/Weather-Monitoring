@@ -10,7 +10,7 @@
 # Overview
 The Real-Time Weather Monitoring System is a web application that continuously retrieves and processes weather data from the OpenWeatherMap API. The system provides real-time insights, daily weather summaries, and alert notifications based on user-defined thresholds. The front end allows users to search for a city and view the weather summary, including temperature and dominant weather conditions. (https://openweathermap.org/)
 
-the website is hosted: file:///C:/Users/Shivani%20Reddy/Desktop/Weather%20Monitoring/frontend/index.html
+the website is hosted: [file:///C:/Users/Shivani%20Reddy/Desktop/Weather%20Monitoring/frontend/index.html]
 # Features
 1. Real-time weather data retrieval for multiple cities in India.
 2. Daily weather summaries including average, maximum, and minimum temperatures.
