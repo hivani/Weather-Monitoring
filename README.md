@@ -71,3 +71,8 @@ source venv/scripts/activate  # On Windows use `venv\Scripts\activate`
 
    The search functionality returns accurate results.
 2. Manual testing can be performed by interacting with the front end and monitoring the backend responses.
+
+# Website Out Come 
+
+![Screenshot (70)](https://github.com/user-attachments/assets/02119066-9018-4921-b1db-2e0432415bd7)
+
