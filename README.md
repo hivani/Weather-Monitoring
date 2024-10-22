@@ -74,5 +74,6 @@ source venv/scripts/activate  # On Windows use `venv\Scripts\activate`
 
 # Website Out Come 
 
-![Screenshot (70)](https://github.com/user-attachments/assets/02119066-9018-4921-b1db-2e0432415bd7)
+![Screenshot (70)7](https://github.com/user-attachments/assets/08445767-52de-4e69-906a-12f787fe2671)
+
 
